@@ -1,9 +1,9 @@
 const fs = require('fs')
 
 global.creator = 'Zeeoneofc'// yourname
-global.MONGO_DB_URI = "mongosh "mongodb+srv://cluster0.w3i92oi.mongodb.net/myFirstDatabase" --apiVersion 1 --username rifkimadiun" //database mongodb 
+global.MONGO_DB_URI = "mongosh "mongodb+srv://cluster0.w3i92oi.mongodb.net/myFirstDatabase" --apiVersion 1 --username rifkimadiun" //database mongodb" 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
-global.your_email = "rifkijncon@gmail.com" //email
+global.your_email = "rifkijncok@gmail.com" //email
 global.email_password = "ylisbilulbeoyosy" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
